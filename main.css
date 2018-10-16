@@ -1,0 +1,33 @@
+body {
+  background-color: #00054f;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 700px;
+  padding: 10px;
+}
+
+h1 {
+  color: #f7f28c;
+  font-family: 'Limelight', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  color: #f7f28c;
+  font-family: 'Limelight', cursive;
+  font-size: 35px;
+  text-align: center;
+}
+
+p {
+  color: #edc125;
+  font-family: 'Limelight', cursive;
+  font-size: 20px;
+  line-height: 1.6;
+  text-align: left;
+}
+
+img {
+  max-width: 100%;
+}
